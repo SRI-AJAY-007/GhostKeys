@@ -1,9 +1,9 @@
-Here’s a simple **README.md** for your keylogger project on GitHub:
+Here's the updated **README.md** with the project name as **GhostKeys**:
 
 ```markdown
-# Keylogger Project (Using pynput)
+# GhostKeys - Keylogger Project (Using pynput)
 
-This is a basic keylogger implemented in Python using the `pynput` library. It records the keys pressed by the user and logs them into a file named `keyfile.txt`. The project is for educational purposes only.
+GhostKeys is a basic keylogger implemented in Python using the `pynput` library. It records the keys pressed by the user and logs them into a file named `keyfile.txt`. The project is for educational purposes only.
 
 ## Features:
 - Captures key presses and logs them into a text file.
@@ -18,7 +18,7 @@ This is a basic keylogger implemented in Python using the `pynput` library. It r
 
 1. **Clone the repository** (or download the script):
    ```bash
-   git clone https://github.com/your-username/keylogger.git
+   git clone https://github.com/SRI-AJAY-007/ghostkeys.git
    ```
 
 2. **Install the dependencies** using pip:
@@ -31,7 +31,7 @@ This is a basic keylogger implemented in Python using the `pynput` library. It r
 1. **Run the script:**
    - Open a terminal and run the script:
    ```bash
-   python keylogger.py
+   python ghostkeys.py
    ```
 
 2. **Log File:**
@@ -47,9 +47,6 @@ This is a basic keylogger implemented in Python using the `pynput` library. It r
 ## License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
----
-
 ### **Key Sections in the README:**
 1. **Description:** A brief intro explaining the purpose of the keylogger.
 2. **Features:** Highlights what the keylogger does.
@@ -61,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to adjust the **project name** and any other specifics (e.g., the script name) as per your actual project. Let me know if you want me to help customize it more!
+You can replace `"your-username"` with your actual GitHub username. This README now reflects the project name **GhostKeys**. Let me know if you'd like to make more changes or add additional details! 😊
