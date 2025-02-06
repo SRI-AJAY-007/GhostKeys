@@ -123,12 +123,4 @@ For more details, refer to the [LICENSE file](LICENSE).
 
 ---
 
-## Contributions
 
-Feel free to fork the repository and contribute! If you find bugs or have suggestions, please submit an issue or a pull request.
-
----
-
-## Contact
-
-For any questions or concerns, feel free to contact me via GitHub issues or at [your-email@example.com](mailto:your-email@example.com).
